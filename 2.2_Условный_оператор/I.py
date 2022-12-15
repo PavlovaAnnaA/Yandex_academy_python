@@ -1,0 +1,2 @@
+name
+print(min(names))
